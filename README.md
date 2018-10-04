@@ -41,8 +41,6 @@ Note that in this dataset missing values are coded as ?.
 Making Plots
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
-First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
-
 For each plot you should
 
 Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
